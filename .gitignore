@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+data/
+artifacts/
+models/
+predictions*.csv
+predictions*.parquet
+submission*.csv
+submission*.parquet
+
+*.pyc
+*.pyo
+*.log

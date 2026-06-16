@@ -1,0 +1,7 @@
+numpy>=1.26
+pandas>=2.1
+pyarrow>=14
+scikit-learn>=1.4
+notebook>=7
+ipykernel>=6
+matplotlib>=3.8
