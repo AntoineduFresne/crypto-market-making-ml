@@ -1,0 +1,6 @@
+# Pinned versions for exact reproduction (python 3.10.10)
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+pyarrow==24.0.0
+joblib==1.5.3
