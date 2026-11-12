@@ -1,5 +1,18 @@
 # Crypto Market-Making ML Task
 
+> **About this repository.** This is my solution to a take-home machine-learning
+> task set by an undisclosed company (June to July 2026). The brief below, the
+> starter code and the market data come from that company; everything added
+> after the initial commit is my work. Start with [`WRITEUP.md`](WRITEUP.md);
+> the full solution is
+> [`notebooks/starter_samples.ipynb`](notebooks/starter_samples.ipynb).
+>
+> **Data.** The market data (about 15 GB compressed) is not stored in this
+> repository. `./copy_data.sh` downloads it from the task's original server for
+> as long as that server stays online. If the download no longer works, open an
+> issue on this repository and I will share my copy: put the archive in `data/`
+> and run `./copy_data.sh`, which checks its SHA-256 and unpacks it.
+
 ## Brief
 
 You are given market data for three instruments (`BTCUSDT`, `ETHUSDT`,
